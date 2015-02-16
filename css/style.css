@@ -187,7 +187,7 @@ h6 {
 
 
 p {
-  color: #98A0A8;
+  color: #000;
   font-family: "Open Sans", sans-serif;
   font-size: 13px;
   font-weight: 400;
@@ -197,7 +197,7 @@ p {
 }               
 
 .lead {
-  color: #98A0A8;
+  color: #000;
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
   font-weight: 300;
@@ -401,7 +401,7 @@ img {
 }
 
 .services-2 p {
-  color: #98A0A8;
+  color: #000;
   margin: 12px 0px 0px 0px;
   text-align:left; 
 }
